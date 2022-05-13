@@ -6,4 +6,4 @@
 
 ## Some details:
 - regularize the generator to promote diversity in perturbations. to prevent the adversarial training from overfitting to specific attacks and to stablize the generator training.
-- 
+
