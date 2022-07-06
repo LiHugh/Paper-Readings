@@ -9,3 +9,8 @@ concepts and the emergence of new ideas.
 Sometimes the target tasks cannot be solved directly (e.g. too hard or sparse rewards). In that case,
 ACL can be used to pose auxiliary tasks to the agent, gradually guiding its learning trajectory from simple to difficult
 tasks until the target tasks are solved.
+
+## What does CL control
+### CL for Data collection
+During data collection, CL organizes the sequential presentation of tasks as a function of the agent’s capabilities. 
+### CL for Data exploitation
