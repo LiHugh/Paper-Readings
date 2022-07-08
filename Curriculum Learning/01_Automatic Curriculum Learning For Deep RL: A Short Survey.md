@@ -14,3 +14,4 @@ tasks until the target tasks are solved.
 ### CL for Data collection
 During data collection, CL organizes the sequential presentation of tasks as a function of the agent’s capabilities. 
 ### CL for Data exploitation
+CL can be used in the data exploitation stage, by acting on training data previously collected and stored in a replay memory: Transition selection, Transition modification.
